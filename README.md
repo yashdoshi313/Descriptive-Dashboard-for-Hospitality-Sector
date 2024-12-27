@@ -33,7 +33,6 @@ This project focuses on analyzing historical sales and reservation data to optim
 - **Python**: For ETL (Extract, Transform, Load) processes and predictive modeling.
 - **Power BI**: For building interactive dashboards and visualizations.
 
--- 
 ## Screenshots
 
 ### Current KPIs Dashboard
