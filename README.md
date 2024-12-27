@@ -1,19 +1,5 @@
 # Hotel Revenue & Occupancy Dashboard Project
 
-## Table of Contents
-1. [Overview](#overview)
-2. [Key Features](#key-features)
-3. [Tech Stack](#tech-stack)
-4. [Setup](#setup)
-5. [Files in the Repository](#files-in-the-repository)
-6. [Screenshots](#screenshots)
-7. [What I Learned](#what-i-learned)
-8. [Contributing](#contributing)
-9. [License](#license)
-10. [Contact](#contact)
-
----
-
 ## Overview
 This project focuses on analyzing historical sales and reservation data to optimize hotel revenue, forecast occupancy trends, and provide actionable insights through interactive dashboards. By leveraging **Python** for data processing and modeling, and **Power BI** for visualization, the project delivers a comprehensive solution tailored to the hospitality industry.
 
@@ -46,3 +32,6 @@ This project focuses on analyzing historical sales and reservation data to optim
 ## Tech Stack
 - **Python**: For ETL (Extract, Transform, Load) processes and predictive modeling.
 - **Power BI**: For building interactive dashboards and visualizations.
+
+-- 
+
