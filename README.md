@@ -34,4 +34,14 @@ This project focuses on analyzing historical sales and reservation data to optim
 - **Power BI**: For building interactive dashboards and visualizations.
 
 -- 
+## Screenshots
+
+### Current KPIs Dashboard
+![Current KPIs](./occupancy_dashboard.png)
+
+### Revenue Trends Dashboard
+![Revenue Trends](./revenue_optimization_dashboard.png)
+
+### Customer Segmentation Dashboard
+![Customer Segmentation](./client_insights_dashboard.png)
 
